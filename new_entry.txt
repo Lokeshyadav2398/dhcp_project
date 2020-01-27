@@ -1,0 +1,5 @@
+host Lokesh_laptop {
+		hardware ethernet A0:B5:D9:D6:E1:F2;;
+		fixed-address 192.168.1.219;
+		option routers 192.168.1.1;
+}
